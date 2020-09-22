@@ -1,4 +1,4 @@
-package ru.kpfu.itis.afarvazov.threads.pool;
+package ru.kpfu.itis.afarvazov.threads.multiload.pool;
 
 import java.util.Deque;
 import java.util.concurrent.ConcurrentLinkedDeque;
